@@ -1,4 +1,7 @@
 # iModsInstaller
+
+Note: This IS NOT the iMods package manager. To see that please reference the iMods1/iMods repository on github ;-)
+
 ![iMods Banner](https://raw.githubusercontent.com/iMods1/iMods/master/repo_banner.png)
 The Installer of iMods
 
